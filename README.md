@@ -5,6 +5,7 @@ well as private rolls sent only to the GM.
  
 ## Change Log
 
+2.0.0: Updated after BR HF Integration update
 1.0.0: Initial release
 
 ## Install
